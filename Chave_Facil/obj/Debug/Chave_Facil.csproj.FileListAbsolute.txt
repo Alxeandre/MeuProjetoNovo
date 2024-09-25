@@ -1,0 +1,12 @@
+D:\projeto C#\Chave_Facil\bin\Debug\Chave_Facil.exe.config
+D:\projeto C#\Chave_Facil\bin\Debug\Chave_Facil.exe
+D:\projeto C#\Chave_Facil\bin\Debug\Chave_Facil.pdb
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.csproj.AssemblyReference.cache
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.csproj.SuggestedBindingRedirects.cache
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.FrmChaveFacil.resources
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.Properties.Resources.resources
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.csproj.GenerateResource.cache
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.csproj.CoreCompileInputs.cache
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.exe
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.pdb
+D:\projeto C#\Chave_Facil\obj\Debug\Chave_Facil.FrmFunc.resources
